@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0986-interval-list-intersections](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [3620-network-recovery-pathways](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0986-interval-list-intersections](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [3794-reverse-string-prefix](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
