@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Two Pointers
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
+## String
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
