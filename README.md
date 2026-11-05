@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [3620-network-recovery-pathways](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
