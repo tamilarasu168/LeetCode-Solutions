@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [3620-network-recovery-pathways](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
