@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1207-unique-number-of-occurrences](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
 |  |
