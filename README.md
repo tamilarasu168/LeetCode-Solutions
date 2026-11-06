@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0866-prime-palindrome](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0326-power-of-three) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
