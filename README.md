@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0866-prime-palindrome](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
