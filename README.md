@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0045-jump-game-ii](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Recursion
 | Problem Name | Difficulty |
