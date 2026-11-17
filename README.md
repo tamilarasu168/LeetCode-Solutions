@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0326-power-of-three](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
