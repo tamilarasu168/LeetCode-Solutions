@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0242-valid-anagram](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Timsort
