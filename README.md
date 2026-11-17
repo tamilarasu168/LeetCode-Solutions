@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0866-prime-palindrome](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
