@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0058-length-of-last-word](https://github.com/tamilarasu168/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tamilarasu168/LeetCode-Solutions/tree/master/0344-reverse-string) |
